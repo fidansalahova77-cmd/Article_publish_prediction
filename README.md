@@ -75,4 +75,4 @@ jupyter notebook
 ## Author
 
 **Your Name**
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+https://www.linkedin.com/in/fidan-salahova-2b581a314/?isSelfProfile=true
